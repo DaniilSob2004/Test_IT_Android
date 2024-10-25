@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- стиль для TextView -->
+    <style name="styleTextView">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">19sp</item>
+        <item name="android:layout_marginBottom">3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">bottom</item>
+    </style>
+
+    <!-- стиль для EditText -->
+    <style name="styleEditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">3dp</item>
+        <item name="android:padding">15dp</item>
+    </style>
+
+    <!-- стиль для RadioButton -->
+    <style name="styleRadioButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">2.5</item>
+        <item name="android:layout_marginLeft">20dp</item>
+    </style>
+
+    <!-- стиль для LinearLayout для вопросов -->
+    <style name="styleAnswerLinearLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_marginTop">20dp</item>
+    </style>
+
+    <!-- стиль для RadioGroup -->
+    <style name="styleRadioGroup">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <!-- стиль для CheckBox -->
+    <style name="styleCheckBox">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">30dp</item>
+    </style>
+</resources>

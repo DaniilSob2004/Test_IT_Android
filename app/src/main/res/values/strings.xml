@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestIT</string>
+    <string name="fio">ФИО:</string>
+    <string name="fio_input">введите фио</string>
+    <string name="age">Возраст:</string>
+    <string name="age_input">введите возраст</string>
+    <string name="salary">Уровень ЗП:</string>
+    <string name="answer_1">Сколько типов данных в Java?</string>
+    <string name="answer_2">Оператор сравнения в C#?</string>
+    <string name="answer_3">Тип данных хранит только целые числа?</string>
+    <string name="answer_4">Ключевое слово для создания переменной в JS?</string>
+    <string name="choice">Выберите:</string>
+    <string name="experience">Опыт работы от 2 лет</string>
+    <string name="command_work">Навыки командной разработки</string>
+    <string name="trip">Готовность к командировкам</string>
+    <string name="take_test">Сдать тест</string>
+</resources>
