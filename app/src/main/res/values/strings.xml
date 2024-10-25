@@ -14,4 +14,5 @@
     <string name="command_work">Навыки командной разработки</string>
     <string name="trip">Готовность к командировкам</string>
     <string name="take_test">Сдать тест</string>
+    <string name="answer_5">Функция для вывода текста на экран в Python?</string>
 </resources>
